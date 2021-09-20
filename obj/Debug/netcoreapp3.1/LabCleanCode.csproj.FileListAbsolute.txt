@@ -1,0 +1,20 @@
+C:\Users\glopez\source\repos\LabCleanCode\LabCleanCode\bin\Debug\netcoreapp3.1\LabCleanCode.exe
+C:\Users\glopez\source\repos\LabCleanCode\LabCleanCode\bin\Debug\netcoreapp3.1\LabCleanCode.deps.json
+C:\Users\glopez\source\repos\LabCleanCode\LabCleanCode\bin\Debug\netcoreapp3.1\LabCleanCode.runtimeconfig.json
+C:\Users\glopez\source\repos\LabCleanCode\LabCleanCode\bin\Debug\netcoreapp3.1\LabCleanCode.runtimeconfig.dev.json
+C:\Users\glopez\source\repos\LabCleanCode\LabCleanCode\bin\Debug\netcoreapp3.1\LabCleanCode.dll
+C:\Users\glopez\source\repos\LabCleanCode\LabCleanCode\bin\Debug\netcoreapp3.1\LabCleanCode.pdb
+C:\Users\glopez\source\repos\LabCleanCode\LabCleanCode\obj\Debug\netcoreapp3.1\LabCleanCode.AssemblyInfoInputs.cache
+C:\Users\glopez\source\repos\LabCleanCode\LabCleanCode\obj\Debug\netcoreapp3.1\LabCleanCode.AssemblyInfo.cs
+C:\Users\glopez\source\repos\LabCleanCode\LabCleanCode\obj\Debug\netcoreapp3.1\LabCleanCode.csproj.CoreCompileInputs.cache
+C:\Users\glopez\source\repos\LabCleanCode\LabCleanCode\obj\Debug\netcoreapp3.1\LabCleanCode.dll
+C:\Users\glopez\source\repos\LabCleanCode\LabCleanCode\obj\Debug\netcoreapp3.1\LabCleanCode.pdb
+C:\Users\glopez\source\repos\LabCleanCode\LabCleanCode\obj\Debug\netcoreapp3.1\LabCleanCode.genruntimeconfig.cache
+C:\Users\glopez\source\repos\LabCleanCode\LabCleanCode\bin\Debug\netcoreapp3.1\usa.txt
+C:\Users\glopez\source\repos\LabCleanCode\LabCleanCode\obj\Debug\netcoreapp3.1\LabCleanCode.csprojAssemblyReference.cache
+D:\Desktop\II semestre 2021 UCR\Inge Software\Clean code\Lab clean code\LabCleanCode\LabCleanCode\obj\Debug\netcoreapp3.1\LabCleanCode.csprojAssemblyReference.cache
+D:\Desktop\II semestre 2021 UCR\Inge Software\Clean code\Lab clean code\LabCleanCode\LabCleanCode\obj\Debug\netcoreapp3.1\LabCleanCode.AssemblyInfoInputs.cache
+D:\Desktop\II semestre 2021 UCR\Inge Software\Clean code\Lab clean code\LabCleanCode\LabCleanCode\obj\Debug\netcoreapp3.1\LabCleanCode.AssemblyInfo.cs
+D:\Desktop\II semestre 2021 UCR\Inge Software\Clean code\Lab clean code\LabCleanCode\LabCleanCode\obj\Debug\netcoreapp3.1\LabCleanCode.csproj.CoreCompileInputs.cache
+D:\Desktop\II semestre 2021 UCR\Inge Software\Clean code\Lab clean code\LabCleanCode\LabCleanCode\obj\Debug\netcoreapp3.1\LabCleanCode.dll
+D:\Desktop\II semestre 2021 UCR\Inge Software\Clean code\Lab clean code\LabCleanCode\LabCleanCode\obj\Debug\netcoreapp3.1\LabCleanCode.pdb
