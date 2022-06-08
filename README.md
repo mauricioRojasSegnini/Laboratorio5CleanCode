@@ -1,2 +1,2 @@
 # Laboratorio5CleanCode
-Laboratorio 5 de Ingeniería de Software
+Laboratorio 5 de Ingeniería de Software.
